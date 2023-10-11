@@ -1,6 +1,7 @@
 AUTHOR = 'Danger Doggo'
 SITENAME = 'My Cool Site'
-SITEURL = ''
+SITEURL = 'https://akhadeli.github.io/cmput404-lab5/'
+THEME = 'templates/mytheme'
 
 PATH = 'content'
 
